@@ -1,0 +1,21 @@
+{
+  "name": "t3_act8_eq01",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sabores de Oaxaca - Panel de administración (login con DummyJSON y tabla de recetas con filtros, paginación y CRUD)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
