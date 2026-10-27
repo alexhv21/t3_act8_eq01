@@ -87,6 +87,22 @@ src/
 ├── App.jsx            rutas
 └── main.jsx           punto de entrada
 ```
+## Capturas del sistema
+
+### Acceso
+![Pantalla de Login](cap1.jpg)
+
+### Panel Principal
+![Inicio](cap2.png)
+
+### Gestión y CRUD de Recetas
+![Tabla de Recetas](cap3.jpg)
+![Modal Editar Receta](cap4.jpg)
+![Modal Agregar Receta](cap5.jpg)
+
+### Vistas Adicionales
+![Sección Usuarios](cap6.png)
+![Sección Estadísticas](cap7.png)
 
 ## Correr en local
 
