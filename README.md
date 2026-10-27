@@ -90,15 +90,15 @@ src/
 ## Capturas del sistema
 
 ### Acceso
-![Pantalla de Login](cap1.jpg)
+![Pantalla de Login](cap1.png)
 
 ### Panel Principal
 ![Inicio](cap2.png)
 
 ### Gestión y CRUD de Recetas
-![Tabla de Recetas](cap3.jpg)
-![Modal Editar Receta](cap4.jpg)
-![Modal Agregar Receta](cap5.jpg)
+![Tabla de Recetas](cap3.png)
+![Modal Editar Receta](cap4.png)
+![Modal Agregar Receta](cap5.png)
 
 ### Vistas Adicionales
 ![Sección Usuarios](cap6.png)
